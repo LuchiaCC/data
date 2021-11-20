@@ -1,0 +1,51 @@
+id,date,state,city,temperature,data
+10,2021-11-19,AL,Alabama,10,temperature:10 windspeed:30 humidity: 43
+10,2021-11-19,AK,Alaska,10,temperature:10 windspeed:30 humidity: 43
+10,2021-11-19,AZ,Arizona,20,temperature:10 windspeed:30 humidity: 43
+10,2021-11-19,AR,Arkansas,20,temperature:10 windspeed:30 humidity: 43
+10,2021-11-19,CA,California,20,temperature:10 windspeed:30 humidity: 43
+10,2021-11-19,CO,Colorado,15,temperature:10 windspeed:30 humidity: 43
+10,2021-11-19,CT,Connecticut,30,temperature:10 windspeed:30 humidity: 43,1 2 3 4 5
+10,2021-11-19,DE,Delaware,30,temperature:10 windspeed:30 humidity: 43,1 2 3 4 5
+10,2021-11-19,FL,Florida,55,temperature:10 windspeed:30 humidity: 43,1 2 3 4 5
+10,2021-11-19,GA,Georgia,45,temperature:10 windspeed:30 humidity: 43,34-54
+10,2021-11-19,HI,Hawaii,50,temperature:10 windspeed:30 humidity: 43,54-54
+10,2021-11-19,ID,Idaho,20,temperature:10 windspeed:30 humidity: 43,58-54
+10,2021-11-19,IL,Illinois,65,temperature:10 windspeed:30 humidity: 43,61-54
+10,2021-11-19,IN,Indiana,65,temperature:10 windspeed:30 humidity: 43,60-54
+10,2021-11-19,IA,Iowa,70,temperature:10 windspeed:30 humidity: 43,81-54
+10,2021-11-19,KS,Kansas,75,temperature:10 windspeed:30 humidity: 43,28-54
+10,2021-11-19,KY,Kentucky,80,temperature:10 windspeed:30 humidity: 43,21-54
+10,2021-11-19,LA,Louisiana,65,temperature:10 windspeed:30 humidity: 43,38-54
+10,2021-11-19,ME,Maine,55,temperature:10 windspeed:30 humidity: 43,7-54
+10,2021-11-19,MD,Maryland,65,temperature:10 windspeed:30 humidity: 43,38-54
+10,2021-11-19,MA,Massachusetts,45,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,MI,Michigan,66,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,MN,Minnesota,77,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,MS,Mississippi,3,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,MO,Missouri,45,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,MT,Montana,23,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,NE,Nebraska,64,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,NV,Nevada,23,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,NH,New Hampshire,64,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,NJ,New Jersey,45,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,NM,New Mexico,73,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,NY,New York,23,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,NC,North Carolina,23,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,ND,North Dakota,65,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,OH,Ohio,12,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,OK,Oklahoma,5,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,OR,Oregon,2,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,PA,Pennsylvania,7,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,RI,Rhode Island,30,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,SC,South Carolina,43,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,SD,South Dakota,67,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,TN,Tennessee,37,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,TX,Texas,29,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,UT,Utah,12,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,VT,Vermont,76,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,VA,Virginia,11,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,WA,Washington,38,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,WV,West Virginia,12,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,WI,Wisconsin,30,temperature:10 windspeed:30 humidity: 43,45-54
+10,2021-11-19,WY,Wyoming,34,temperature:10 windspeed:30 humidity: 43,45-54
